@@ -1,0 +1,11 @@
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.deps.json
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.runtimeconfig.json
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.runtimeconfig.dev.json
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.dll
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.pdb
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.csproj.CoreCompileInputs.cache
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.AssemblyInfoInputs.cache
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.AssemblyInfo.cs
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.dll
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.pdb
+/Users/ulisescadena/Projects/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.genruntimeconfig.cache
