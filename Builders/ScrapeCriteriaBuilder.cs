@@ -36,7 +36,7 @@ namespace SimpleWebScraper.Data
             return this;
         }
 
-        public ScrapeCriteriaBuilder WithRegecOption(RegexOptions regexOption)
+        public ScrapeCriteriaBuilder WithRegexOption(RegexOptions regexOption)
         {
             _regexOption = regexOption;
             return this;
